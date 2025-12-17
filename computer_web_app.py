@@ -1,16 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 16 23:33:31 2025
 
-@author: M Henry_Leandre
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 16 21:38:19 2025
-
-@author: M Henry_Leandre
-"""
 
 import numpy as np
 import pickle
